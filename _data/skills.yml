@@ -20,7 +20,7 @@ tools:
   - item: Bash
   - item: Git & Github
   - item: Chrome DevTools
-  - item: Postman
+  - item: 
   - item: MongoDB
 
 design:
